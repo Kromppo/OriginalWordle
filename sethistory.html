@@ -1,0 +1,47 @@
+  <html>
+  <head>
+    <title>Setting history?</title>
+    <script type="text/javascript">
+      function n(e, a, s) {
+        return a in e ? Object.defineProperty(e, a, {
+          value: s,
+          enumerable: !0,
+          configurable: !0,
+          writable: !0
+        }) : e[a] = s, e
+      }
+      
+      function sethistory() {
+        var Ya = "statistics",
+          Ja = "fail",
+          Ua = {
+            currentStreak: 12,
+            maxStreak: 12,
+            guesses: n({
+              1: 0,
+              2: 2,
+              3: 0,
+              4: 9,
+              5: 3,
+              6: 6
+            }, Ja, 0),
+            winPercentage: 95,
+            gamesPlayed: 21,
+            gamesWon: 20,
+            averageGuesses: 4.57
+          };
+  
+        window.localStorage.setItem(Ya, JSON.stringify(Ua));
+  
+        wa = "gameState",
+        xa = {
+          hardMode: !1
+        };
+        window.localStorage.setItem(wa, JSON.stringify(xa));
+      }
+    </script>
+  </head>
+  <body>
+    <input type = "button" onclick = "sethistory()" value = "Set History">
+  </body>
+  </html>
