@@ -1,0 +1,24 @@
+Verge: NYT Acquisition | https://web.archive.org/web/20220217055329/https://www.theverge.com/2022/1/31/22911274/wordle-new-york-times-free-word-game-acquisition
+
+iOS Web Archive Guide | ttps://web.archive.org/web/20220217055824/https://support.apple.com/guide/safari/save-part-or-all-of-a-webpage-ibrw1089/mac
+
+Import Settings Guide | https://web.archive.org/web/20220217055130/https://leancrew.com/all-this/2022/02/resurrecting-the-old-wordle-for-procrastinators/
+
+Infinite | https://web.archive.org/web/20220217060128/https://wordlegame.org/
+
+Nerdle* | https://web.archive.org/web/20220217060447/https://nerdlegame.com/
+
+Dordle* | https://web.archive.org/web/20220217062347/https://zaratustra.itch.io/dordle
+
+Absurdle* | https://web.archive.org/web/20220217061141/https://qntm.org/files/absurdle/absurdle.html
+
+Wordle | https://web.archive.org/web/20220217060318id_/https://worldle.teuteuf.fr/
+
+Globle | https://web.archive.org/web/20220217061805id_/https://globle-game.com/
+
+Archive* | https://web.archive.org/web/20220217062648/https://metzger.media/games/wordle-archive/
+
+Manual Import Guide | https://web.archive.org/web/20220217074949/https://nerdschalk.com/did-wordle-streak-reset-for-you-heres-why-and-how-to-get-it-back/
+
+
+* = These links don't work with "id_" which resets the clock to current day 
